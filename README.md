@@ -17,5 +17,5 @@
 Шаблон координат можно изменить в конфиге
 
 ## Ссылки
-- [Страница мода на GitHub](https://github.com/TeychMan/CopyCoordsMod)
-- [Скачать последнюю версию](https://github.com/TeychMan/CopyCoordsMod/releases)
+- [Страница мода на GitHub](https://github.com/Teych-Man/CopyCoordsMod)
+- [Скачать последнюю версию](https://github.com/Teych-Man/CopyCoordsMod/releases)
